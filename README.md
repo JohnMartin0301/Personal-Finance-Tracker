@@ -1,5 +1,5 @@
 # Personal-Finance-Tracker
-a simple and interactive command-line tool designed to help you track your finances and manage your monthly expenses. With this program, you can set your monthly allowance, allocate it into different spending categories, and enter your expenses to keep track of your financial activities.
+A simple and interactive command-line tool designed to help you track your finances and manage your monthly expenses. With this program, you can set your monthly allowance, allocate it into different spending categories, and enter your expenses to keep track of your financial activities.
 
 ![financetrackerjs](https://github.com/JohnMartin0301/Personal-Finance-Tracker/assets/112761826/7311d346-f274-4781-a9e8-a9b0700b8b88)
 
